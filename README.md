@@ -1,56 +1,59 @@
-👋 Hi, I’m Vikash Kumar
+# 👋 Hi, I’m Vikash Kumar
 
-Welcome to my GitHub profile!
+![Coder](https://cdn-icons-png.flaticon.com/512/1006/1006549.png)  
 
-I am a 3rd-year B.Tech Electrical and Electronics Engineering student with a passion for web development and full-stack applications. I love building projects using modern technologies and exploring the latest trends in JavaScript, React, Node.js, and backend development.
+Welcome to my GitHub profile!  
 
-🌱 I’m currently learning
+I am a **3rd-year B.Tech Electrical and Electronics Engineering student** with a passion for **web development and full-stack applications**. I love building projects using modern technologies and exploring the latest trends in **JavaScript, React, Node.js**, and **backend development**.
 
-Advanced JavaScript & React
+---
 
-Node.js & Express for backend
+## 🌱 I’m Currently Learning
 
-MongoDB & Mongoose for database management
+- Advanced JavaScript & React  
+- Node.js & Express for backend  
+- MongoDB & Mongoose for database management  
+- DSA & Java Core for problem-solving  
+- Building full-stack projects for real-world applications  
 
-DSA & Java Core for problem-solving
+---
 
-Building full-stack projects for real-world applications
+## 💻 Tech Stack
 
-💻 Tech Stack
+**Frontend:** React, HTML5, CSS3, Bootstrap, Ant Design  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, JWT Authentication  
+**Languages:** JavaScript, Java, Python  
 
-Frontend: React, HTML5, CSS3, Bootstrap, Ant Design
+---
 
-Backend: Node.js, Express
+## 🛒 Projects Highlight
 
-Database: MongoDB
+### **ShopEasy - Ecommerce App**  
+A modern full-stack ecommerce app built with React, Node.js, Express, and MongoDB, featuring:  
 
-Tools & Platforms: Git, GitHub, VS Code, Postman, JWT Authentication
+- User & Admin authentication  
+- Product management and categories  
+- Cart and order management  
+- Responsive design  
 
-Languages: JavaScript, Java, Python
+### **Portfolio Website**  
+Showcases my projects, skills, and experience in a professional layout.  
 
-🛒 Projects Highlight
-ShopEasy - Ecommerce App
+### **LinkedIn Clone App**  
+A full-stack social media application with authentication, profile management, and post sharing features.  
 
-A modern full-stack ecommerce app built with React, Node.js, Express, and MongoDB, featuring:
+---
 
-User & Admin authentication
+## 📈 GitHub Stats
 
-Product management and categories
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikashkesri&show_icons=true&theme=radical)
 
-Cart and order management
+---
 
-Responsive design
+## 📫 Contact Me
 
-Portfolio Website
-
-LinkedIn Clone App
-
-📈 GitHub Stats
-
-📫 Contact Me
-
-LinkedIn: https://www.linkedin.com/in/vikash-kesri-0451ab297/
-
-Email:vk9630623@gmail.com
-
-Portfolio: https://vikashkesri.github.io/my-portfolio/#
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0451AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kesri-0451ab297/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk9630623@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://vikashkesri.github.io/my-portfolio/#)
