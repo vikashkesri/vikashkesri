@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vikash Kumar  
 
-![Programmer](https://cdn-icons-png.flaticon.com/512/1006/1006549.png)  
+![Programmer]((https://www.iconfinder.com/icons/5692869/avatar_developer_entrepreneur_man_person_programmer_technologist_icon)
 
 I’m a **3rd-year B.Tech Electrical and Electronics Engineering student** passionate about **web development** and building **full-stack applications**.  
 
